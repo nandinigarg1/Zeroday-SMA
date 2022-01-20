@@ -32,7 +32,7 @@ background-color: #0367fd;
 }
 ul li ul li{
  display: none;
- width: 255px;
+ width: 100%;
  background-color: dimgray;
  opacity: 90%;
 
